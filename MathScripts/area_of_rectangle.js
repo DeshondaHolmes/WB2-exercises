@@ -1,6 +1,6 @@
 // calculate area of rectangle//
 
-var num1 = 14
+var num1 = 62
 var num2 = 2
 
 // Expression //
