@@ -1,11 +1,11 @@
 // Calculate net worth //
 
-var num1 = 500000;
-var num2 = 2000;
+var totalAssets = 500000;
+var totoalDebts = 2000;
 
 // Expression//
-var answer = num1 -num2;
+var netWorth = totalAssets - totoalDebts;
 
 // output //
 
-console.log("Your net worth is " + answer );
+console.log("Your net worth is " + netWorth );

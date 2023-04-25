@@ -1,11 +1,11 @@
 // calculate area of rectangle//
 
-var num1 = 62
-var num2 = 2
+var rectangleWide = 62;
+var rectangleLong = 2;
 
 // Expression //
 
-area = num1 * num2
+totalArea = rectangleWide * rectangleLong;
 
 // output //
-console.log("The area of the rectangle is  " + area );
+console.log("The area of the rectangle is  " + totalArea );
