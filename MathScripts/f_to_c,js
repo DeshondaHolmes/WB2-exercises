@@ -1,4 +1,6 @@
+"use strict"
 // convert Fahrenheit to Celsius
+
 var currentFahrenheit = 100;
 var baseTemp = 32;
 var numFrac = 5/9;
