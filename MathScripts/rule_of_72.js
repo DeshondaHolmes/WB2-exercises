@@ -14,5 +14,5 @@ var totalSavings = savingsAccount * doubleyear
 // output
 
 console.log(
-    "At a " + interestRate.toFixed(2) +" interest rate"+ " your savings will be worth " + totalSavings + " in " + totalYears.toFixed(1) + " years.");
+    "At a " + interestRate.toFixed(2) +" interest rate"+ " your savings will be worth $ " + totalSavings + " in " + totalYears.toFixed(1) + " years.");
    
